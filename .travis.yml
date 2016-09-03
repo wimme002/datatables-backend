@@ -9,3 +9,6 @@ php:
   
 install:
   - composer install --dev --no-interaction --prefer-source
+
+
+script: phpunit
